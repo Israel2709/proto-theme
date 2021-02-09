@@ -156,6 +156,7 @@ hr::after {
     font-size: 12px;
     text-align: left;
     width: 130px;
+    border-radius: 5px;
 }
 
 p.text-widget{
