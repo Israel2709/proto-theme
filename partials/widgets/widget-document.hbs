@@ -1,0 +1,16 @@
+<div class="card p-3">
+    <p class="font-avenir-black pl-5 mb-1"><b>Ayuda a nuestro equipo de
+            <span class="text-machina-red">Machina</span> a captar información para IA</b>
+    </p>
+    <p class="pl-5 font-avenir-medium">Sólo necesitamos tu INE y Comprobante de domicilio</p>
+    <div class="" id="file-drop" draggable="true">
+        <form class="my-form d-flex justify-content-center align-items-center">
+            <img src="/content/images/icon-file.svg" alt="">
+            <p class="m-0 ml-3">Arrastra y suelta tus documentos aquí o <label class="text-orange" for="fileElem">busca
+                    en tu ordenador</label></p>
+            <input type="file" id="fileElem" multiple accept="image/*" onchange="handleFiles(this.files)"
+                class="d-none">
+
+        </form>
+    </div>
+</div>

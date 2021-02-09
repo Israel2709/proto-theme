@@ -115,3 +115,15 @@
 .u-text-format > *:last-child > *:last-child {
     margin-bottom: 0 !important;
 }
+
+.text-machina-red {
+    color: #ef4136;
+}
+
+.font-avenir-black {
+    font-family: "AvenirLTStd-Black";
+}
+
+.text-orange {
+    color: #f89521;
+}

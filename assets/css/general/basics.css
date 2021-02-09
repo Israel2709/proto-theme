@@ -59,6 +59,19 @@ p {
     margin: 0 0 20px;
 }
 
+@font-face {
+    font-family: "AvenirLTStd-Black";
+    src: url("../../../fonts/AvenirLTStd-Black.eot?#iefix") format("embedded-opentype"), url("../../fonts/AvenirLTStd-Black.otf") format("opentype"), url("../../fonts/AvenirLTStd-Black.woff") format("woff"), url("../../fonts/AvenirLTStd-Black.ttf") format("truetype"), url("../../fonts/AvenirLTStd-Black.svg#AvenirLTStd-Black") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "AvenirLTStd-Medium";
+    src: url("../../fonts/AvenirLTStd-Medium.eot?#iefix") format("embedded-opentype"), url("../../fonts/AvenirLTStd-Medium.otf") format("opentype"), url("../../fonts/AvenirLTStd-Medium.woff") format("woff"), url("../../fonts/AvenirLTStd-Medium.ttf") format("truetype"), url("../../fonts/AvenirLTStd-Medium.svg#AvenirLTStd-Medium") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
 
 img {
     display: block;
@@ -143,7 +156,7 @@ hr::after {
 }
 
 .content-center{
-    height: 400px;
+    height: 480px;
     text-align: center;
 }
 

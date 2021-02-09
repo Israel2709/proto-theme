@@ -12,6 +12,8 @@
 @import "site/off-canvas.css";
 @import "site/footer.css";
 @import "site/error.css";
+@import "site/social-media.css";
+@import "site/documents.css";
 @import "blog/post.css";
 @import "blog/page.css";
 @import "blog/featured.css";
@@ -27,3 +29,4 @@
 @import "vendor/pswp.css";
 @import "misc/kg.css";
 @import "misc/utilities.css";
+
