@@ -15,41 +15,41 @@
   }
 
   .apps-wrapper .app-icon-google {
-    background-image: url("/content/images/icon-google.svg");
+    background-image: url("../../images/icon-google.svg");
   }
 
   .apps-wrapper .app-icon-gmail {
-    background-image: url("/content/images/icon-gmail.svg");
+    background-image: url("../../images/icon-gmail.svg");
   }
 
   .apps-wrapper .app-icon-drive {
-    background-image: url("/content/images/icon-drive.svg");
+    background-image: url("../../images/icon-drive.svg");
   }
 
   .apps-wrapper .app-icon-calendar {
-    background-image: url("/content/images/icon-calendar.svg");
+    background-image: url("../../images/icon-calendar.svg");
   }
 
   .apps-wrapper .app-icon-slack {
-    background-image: url("/content/images/icon-slack.svg");
+    background-image: url("../../images/icon-slack.svg");
   }
 
   .apps-wrapper .app-icon-jira {
-    background-image: url("/content/images/icon-jira.svg");
+    background-image: url("../../images/icon-jira.svg");
   }
 
   .apps-wrapper .app-icon-confluence {
-    background-image: url("/content/images/icon-confluence.svg");
+    background-image: url("../../images/icon-confluence.svg");
   }
 
   .apps-wrapper .app-icon-invision {
-    background-image: url("/content/images/icon-invision.svg");
+    background-image: url("../../images/icon-invision.svg");
   }
 
   .apps-wrapper .app-icon-sketch {
-    background-image: url("/content/images/icon-sketch.svg");
+    background-image: url("../../images/icon-sketch.svg");
   }
 
   .apps-wrapper .app-icon-bamboo {
-    background-image: url("/content/images/icon-bamboo.svg");
+    background-image: url("../../images/icon-bamboo.svg");
   }
